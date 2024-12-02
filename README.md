@@ -1,11 +1,14 @@
 # Principios de Web
 
-## Título: Simulação de páginas Web iniciais.
-## Descrição: Este é um projeto simples que contém uma página principal (`index.html`) e cinco páginas de resposta (`resposta1.html`, `resposta2.html`, etc.). Abaixo, você encontrará instruções de como acessar e visualizar essas páginas no seu navegador.
+### Título: 
+Simulação de páginas Web iniciais.
+### Descrição: 
+Este é um projeto simples que contém uma página principal (`index.html`) e cinco páginas de resposta (`resposta1.html`, `resposta2.html`, etc.). Abaixo, você encontrará instruções de como acessar e visualizar essas páginas no seu navegador.
 
-## Instruções: Ao acessar à página inicial será possível visualizar todos os arquivos.
+### Instruções: 
+Ao acessar à página inicial será possível visualizar todos os arquivos.
 
-### Acessando a Página Principal
+#### Acessando a Página Principal
 
 1. **No seu computador**:
    - Se você tem os arquivos no seu computador, abra o arquivo `index.html` no seu navegador.
