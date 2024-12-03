@@ -1,0 +1,7 @@
+Questão 02: Cite três ferramentas ou tecnologias amplamente usadas no desenvolvimento web e explique como elas ajudam no processo de criação de aplicações web.
+
+Resposta 02: Três ferramentas amplamente usadas no desenvolvimento web são os frameworks front-end, como React, os sistemas de controle de versão, como Git, e os pré-processadores de CSS, como SASS. 
+O React facilita a criação de interfaces dinâmicas e reutilizáveis, otimizando o desenvolvimento de aplicações interativas.
+O Git permite rastrear mudanças no código, facilitar o trabalho em equipe e reverter alterações, promovendo um fluxo de trabalho organizado. 
+Já o SASS amplia as funcionalidades do CSS, permitindo o uso de variáveis e funções que tornam o código mais eficiente e modular.
+

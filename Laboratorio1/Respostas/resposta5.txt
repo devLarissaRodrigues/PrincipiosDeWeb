@@ -1,0 +1,7 @@
+Questão 05: Considere o cenário em que você está trabalhando em um projeto de site com sua dupla. Qual seria sua abordagem inicial para organizar as tarefas, escolher ferramentas e implementar boas práticas 
+de versionamento e desenvolvimento?
+
+Resposta 05: Ao trabalhar em um projeto de site com uma dupla, a abordagem inicial seria definir claramente as tarefas e responsabilidades de cada membro, utilizando ferramentas como Trello ou Notion para organização. 
+Escolheríamos ferramentas de desenvolvimento adequadas, como um editor de código compartilhado (VS Code com Live Share) e frameworks compatíveis com os requisitos do projeto. 
+Implementaríamos boas práticas de versionamento usando Git, criando branches para diferentes funcionalidades e revisando o código antes do merge.
+Também manteríamos uma comunicação constante para garantir alinhamento e resolver obstáculos rapidamente.
